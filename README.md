@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @christine-galv
 - 👀 I’m interested in coding and learning new languages to attain a better career
-- 🌱 I’m currently learning LINUX, POWER BI and Tableau at the moment
-- 💞️ I’m looking to collaborate on not to sure yet
+- 🌱 I’m currently learning SQL, C++ and Python at the moment
+- 💞️ I’m looking to collaborate on databases
 - 📫 How to reach me cngalveznow@gmail.com
 
 <!---
